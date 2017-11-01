@@ -7,7 +7,7 @@ var VENDOR = path.resolve(__dirname, 'packages/@okta/courage/src/vendor');
 // Return a function so that all consumers get a new copy of the config
 module.exports = function (outputFilename) {
   return {
-    entry: ['babel-polyfill', './target/js/widget/OktaSignIn.js'],
+    entry: './target/js/widget/OktaSignIn.js',
     output: {
       path: TARGET_JS,
       filename: outputFilename,
