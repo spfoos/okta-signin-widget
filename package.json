@@ -2,14 +2,14 @@
   "name": "spfoos-okta-signin-widget",
   "description": "The Okta Sign-In Widget",
   "version": "2.3.0",
-  "homepage": "https://github.com/okta/okta-signin-widget",
+  "homepage": "https://github.com/spfoos/okta-signin-widget",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okta/okta-signin-widget.git"
+    "url": "https://github.com/spfoos/okta-signin-widget.git"
   },
   "bugs": {
-    "url": "https://github.com/okta/okta-signin-widget/issues"
+    "url": "https://github.com/spfoos/okta-signin-widget/issues"
   },
   "publishConfig": {
     "registry": "https://artifacts.aue1d.saasure.com/artifactory/api/npm/npm-okta"
